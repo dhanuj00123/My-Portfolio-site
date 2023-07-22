@@ -3,7 +3,9 @@
 This project was bootstrapped with React +TypeScript.
 
 - cd my-portfolio
+- yarn install 
 - yarn start
+
 
 ## Available Scripts
 
