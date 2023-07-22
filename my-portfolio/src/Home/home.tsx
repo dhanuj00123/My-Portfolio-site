@@ -1,6 +1,7 @@
 import { Button } from "@mui/material";
+import NavBar from "../common/navBar/navBar";
 
 const Home = () => {
-  return <Button variant="contained">Click Me</Button>;
+  return <NavBar />;
 };
 export default Home;
