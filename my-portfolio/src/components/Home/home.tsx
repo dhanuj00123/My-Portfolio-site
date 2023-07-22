@@ -1,5 +1,5 @@
 import { Button } from "@mui/material";
-import NavBar from "../common/navBar/navBar";
+import NavBar from "../../common/navBar/navBar";
 
 const Home = () => {
   return <NavBar />;
