@@ -10,6 +10,7 @@ import {
 import NavBar from "../../common/navBar/navBar";
 import { useEffect, useState } from "react";
 import HeroSection from "../../common/heroSection/heroSection";
+import Footer from "../../common/footer/footer";
 
 const CLIENT_ID = "996163ec51a4769e7186";
 
@@ -71,6 +72,10 @@ const Home = () => {
     <>
       <NavBar image={getUserImage()} />
       <HeroSection />
+      <h1>
+        kjhfkjdshfkjshfkjshfjkhsff djfnsdjkfhskdjhfksjhfkjshfkjsdhfjksdhfkjs
+      </h1>
+      <Footer />
       {/* <Container className="container">
         <Grid container={true} paddingTop={"2rem"}>
           <Grid item={true} xs={12} display={"flex"} alignItems={"center"}>
